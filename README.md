@@ -8,7 +8,7 @@
 # Installation
 - Copy and paste this code in first line
 ```
-library = loadstring(game:HttpGet('https://raw.githubusercontent.com/EngineLibraryX/StracLib/refs/heads/main/StracLib.lua'))()
+library = loadstring(game:HttpGet('https://raw.githubusercontent.com/NectoVerse/StracLib/refs/heads/main/StracLib.lua'))()
 ```
 
 # Create the window
